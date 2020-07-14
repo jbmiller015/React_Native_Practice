@@ -1,34 +1,19 @@
 {
   "blogposts": [
     {
-      "id": 1,
-      "title": "Api Post",
-      "content": "content for api"
-    },
-    {
-      "title": "title test ",
-      "content": "woah",
+      "title": "Test er",
+      "content": "Edit",
       "id": 2
     },
     {
-      "title": "Hey",
-      "content": "new code",
+      "title": "Test",
+      "content": "Add",
       "id": 3
     },
     {
-      "title": "Hey you",
-      "content": "you hawt",
+      "title": "Jakey-poo",
+      "content": "Mmmmmmmmm sexy",
       "id": 4
-    },
-    {
-      "title": "another one",
-      "content": "bam",
-      "id": 5
-    },
-    {
-      "title": "sixy",
-      "content": "6",
-      "id": 6
     }
   ]
 }
