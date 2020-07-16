@@ -1,4 +1,5 @@
 require('dotenv').config();
+require('./models/User');
 const express = require('express');
 const db_string = process.env.CLOUD_STRING;
 const mongoose = require('mongoose');
