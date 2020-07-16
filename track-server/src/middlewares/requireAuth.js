@@ -8,10 +8,8 @@ const jwtString = process.env.JWT_AUTH;
 module.exports = (req, res, next) => {
     const {authorization} = req.headers;
 
-
     if (!authorization)
         return res.status(401).send({error: 'You must be logged in.'});
-
 
     const token = authorization.replace('Bearer ', '');
 
